@@ -3,6 +3,10 @@
 
 ## Integrantes:
 
-- Ricardo Terán
-- Carlos Gomez
-- Joel Velez
+id |nombre|descripción
+---|---|---
+1| Ricardo Terán | Algo sobre Ricardo
+2| Carlos Gomez | Algo sobre Carlos
+3| Joel Velez | Algo sobre Joel
+4| Aron Caballero | Algo sobre Aron
+5| Karla Andamo | Algo sobre Karla
