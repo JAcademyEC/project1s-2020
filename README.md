@@ -10,3 +10,5 @@ id |nombre|descripción
 3| Joel Velez | Algo sobre Joel
 4| Aron Caballero | Algo sobre Aron
 5| Karla Andamo | Algo sobre Karla
+
+<img src = "https://lh3.googleusercontent.com/proxy/1011RF4UQ5PCDoL8c_kPteevlVVc4nS7vAnNIw6EAJCW8vlkAHTTkfSySiib60Mc7dZQZwiiqKrPKoOijCC_yZ1-uwq9WO9Q7uth9GL04DaLrw" width="300px" />
