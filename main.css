@@ -1,54 +1,56 @@
 
-/* Code here!
-===============================================*/
 
-.parrafo {
-    background: slategray;
-    height: 400px;
-    width: 2000px;
-    margin-top: 600px;
+
+#content{
+    display: flex;
+    
 }
 
-#imagen1{
+#contendor-imagenes{
+    display: flex ;
+    width: 420px;
+    
+
+    
+}
+.imagen{
+    
     width: 200px;
-    padding: 10px 0;
-    margin: auto;
-    float: right;
-    margin-right: 100px;
-    margin-top: 50px;
-    height : 200px;
+    height: 200px;
+    margin-top: 10px;
 }
-#imagen2{
-    width: 200px;
-    padding: 10px 0;
-    margin: auto;
-    float: right;  
-    margin-right: 100px;
-    margin-top: 50px ;
+    
 
-    height : 200px;
+body{
+    margin: 5% 10%;
+    border: 1px solid gray;
 }
 
-#imagen3{
-    width: 200px;
-    padding: 20px 0;
-    margin: auto;
-    float: left;
-   
-    margin-left:1035px;
-    margin-top: 35px;
-    height : 200px;
+header{
+    /* border: 2px solid black; */
+    height: 80px;
+    padding: 15px;
+    background-color: #DDF5F5
 }
 
 
 
-
-#imagen4{
-    width: 200px;
-    padding: 50px 0;
-    margin: auto;
-    float: left;
-    margin-left:732px;
-    margin-top: -265px;
-    height : 200px;
+.division{
+    
+    border: 1px solid gray;
+    width: 600px;
+    height: 100px;
+    margin: 10px;
+    padding: 15px;
 }
+
+footer{
+    /* border: 2px solid black; */
+    height: 80px;
+    padding: 15px;
+    background-color: #949494;
+}
+
+
+
+
