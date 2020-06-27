@@ -1,3 +1,54 @@
 
 /* Code here!
 ===============================================*/
+
+.parrafo {
+    background: slategray;
+    height: 400px;
+    width: 2000px;
+    margin-top: 600px;
+}
+
+#imagen1{
+    width: 200px;
+    padding: 10px 0;
+    margin: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 50px;
+    height : 200px;
+}
+#imagen2{
+    width: 200px;
+    padding: 10px 0;
+    margin: auto;
+    float: right;  
+    margin-right: 100px;
+    margin-top: 50px ;
+
+    height : 200px;
+}
+
+#imagen3{
+    width: 200px;
+    padding: 20px 0;
+    margin: auto;
+    float: left;
+   
+    margin-left:1035px;
+    margin-top: 35px;
+    height : 200px;
+}
+
+
+
+
+#imagen4{
+    width: 200px;
+    padding: 50px 0;
+    margin: auto;
+    float: left;
+    margin-left:732px;
+    margin-top: -265px;
+    height : 200px;
+}
